@@ -1,32 +1,23 @@
-This project was bootstrapped with [vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+# Crypto Tracker App
 
-![Project Preview](./cryptoupdate.png)
-![Project Preview](./cryptoupdate2.png)
+This project is a **Crypto Tracker** app built using **Vite**, **React**, **Chart.js**, and data from the **CoinGecko API**. It allows users to view real-time cryptocurrency data and visualize trends with charts.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Real-time Cryptocurrency Data**: Fetches live data for various cryptocurrencies using the CoinGecko API.
+- **Interactive Charts**: Displays historical price trends using Chart.js for easy visualization.
+- **User-friendly Interface**: Built with React and Vite for a smooth and fast user experience.
+- **Lightweight & Fast**: Leveraging Vite’s fast build times and development server for a snappy experience.
 
-### `yarn`
+## Technologies Used
 
-Instal All dependencies in this project
+- **Vite**: For fast project setup and development.
+- **React**: To create a dynamic and interactive user interface.
+- **Chart.js**: For rendering charts and visualizing the data trends of cryptocurrencies.
+- **CoinGecko API**: For fetching real-time cryptocurrency data.
 
-### `yarn dev`
+## Installation
 
-Runs the app in the development mode.<br />
-Open [http://127.0.0.1:5173](http://127.0.0.1:5173) to view it in the browser.
-
-### Link
-
-Vite: https://vitejs.dev/guide/#scaffolding-your-first-vite-project
-Tailwind CSS: https://tailwindcss.com/docs/guides/vite
-CoinGecko API: https://www.coingecko.com/en/api/documentation
-React-Chartjs-2: https://react-chartjs-2.js.org/examples/area-chart
-React-router-dom: https://reactrouter.com/docs/en/v6/getting-started/overview
-HeroIcons: https://heroicons.com/
-Moment: https://momentjs.com/
-
-
-### Video Tutorial
-
-You can see my youtube video for this project in [here](https://youtu.be/uiW4tArFLkE)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/amit-vedapthak/crypto-tracker.git
